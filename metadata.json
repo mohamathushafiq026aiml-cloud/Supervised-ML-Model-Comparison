@@ -1,0 +1,6 @@
+{
+  "name": "Supervised ML Model Comparison",
+  "description": "Interactive browser-based training and comparison tool for Regression and Classification machine learning models with metrics, charts, and confusion matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
